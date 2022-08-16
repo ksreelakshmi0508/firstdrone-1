@@ -28,7 +28,7 @@ spec:
         app: nginx
     spec:
       containers:
-      - name: mctsamiktrng01
-        image: sampledockerrepo:latest
+      - name: sreelk589
+        image: build-push-approve:latest
         ports:
         - containerPort: 80
