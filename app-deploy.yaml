@@ -29,6 +29,6 @@ spec:
     spec:
       containers:
       - name: sreelk589
-        image: newtrial:latest
+        image: newtrial:new
         ports:
         - containerPort: 80
