@@ -29,6 +29,6 @@ spec:
     spec:
       containers:
       - name: sreelk589
-        image: build-push-approve:latest
+        image: newtrial:latest
         ports:
         - containerPort: 80
